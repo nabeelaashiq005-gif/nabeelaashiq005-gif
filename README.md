@@ -92,6 +92,9 @@ A Java-based application designed to manage blood donor information and facilita
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=nabeelaashiq005-gif&label=Profile%20Views&color=FBD5D5&style=for-the-badge" alt="Profile Views" />
-<img src="./assets/footer.svg" width="100%" alt="Footer banner"/>
+
+<p><i>Always learning, always building — one commit at a time 🚀</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FDE68A,50:C7F9CC,100:BFDBFE&height=120&section=footer" />
 
 </div>
