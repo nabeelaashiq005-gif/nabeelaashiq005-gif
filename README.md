@@ -56,7 +56,6 @@ And here's a fun fact: I genuinely love the process of turning a random idea int
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
 
 
 <p align="center">
