@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BFDBFE,50:C7F9CC,100:FDE68A&height=180&section=header&text=Nabila%20Ashiq&fontSize=55&fontColor=333333&desc=MERN%20Stack%20Developer&descAlignY=95&descSize=25" />
 
 <p>
   <a href="https://www.linkedin.com/in/nabila-ashiq-8a5198379" target="_blank">
