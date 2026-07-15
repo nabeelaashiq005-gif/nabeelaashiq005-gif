@@ -58,11 +58,6 @@ And here's a fun fact: I genuinely love the process of turning a random idea int
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabeelaashiq005-gif&theme=radical" alt="GitHub Streak" />
-</p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelaashiq005-gif&layout=compact&theme=radical" alt="Top Languages" height="180"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabeelaashiq005-gif&theme=radical" alt="GitHub Streak" />
