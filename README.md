@@ -57,7 +57,8 @@ And here's a fun fact: I genuinely love the process of turning a random idea int
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabeelaashiq005-gif&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats-sigma-eight.vercel.app/api?username=nabeelaashiq005-gif&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+</p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelaashiq005-gif&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </p>
 
