@@ -53,7 +53,7 @@ Feel free to reach out if you want to connect, discuss **JavaScript, React, or N
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabeelaashiq005-gif&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=YOUR_EXACT_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
