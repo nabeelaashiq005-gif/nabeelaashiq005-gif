@@ -53,10 +53,8 @@ Feel free to reach out if you want to connect, discuss **JavaScript, React, or N
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabeelaashiq005&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=nabeelaashiq005-gif&theme=radical" alt="GitHub Streak" />
 </p>
-
----
 
 ### 📌 Featured Projects
 
