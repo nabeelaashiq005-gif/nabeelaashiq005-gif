@@ -25,21 +25,19 @@
 <tr>
 <td>
 
-Right now, I'm building **Skill Exchange Board**, a platform where people can connect and exchange skills with each other 🤝
+I'm a passionate full-stack developer dedicated to building responsive, user-friendly, and scalable web applications 🚀
 
-I'm also deep into learning the **MERN Stack**, one project at a time 🌱
+I enjoy working with the **MERN Stack** and constantly refining my development skills, one project at a time 🌱
 
-I enjoy collaborating on web development projects and I'm always up for a good coding challenge 💻
+I thrive on solving coding challenges and collaborating on open-source or team-based web projects 💻
 
-Feel free to reach out if you want to talk **JavaScript, React, or Node.js** — happy to chat! 💬
+Feel free to reach out if you want to connect, discuss **JavaScript, React, or Node.js**, or collaborate — happy to chat! 💬
 
-And here's a fun fact: I genuinely love the process of turning a random idea into a fully working web app ✨
+Fun fact: I genuinely love the process of turning a simple idea into a fully working web application ✨
 
 </td>
 </tr>
 </table>
-
----
 
 ### 🛠️ Tech Stack
 
