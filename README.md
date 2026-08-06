@@ -33,7 +33,6 @@ I thrive on solving coding challenges and collaborating on open-source or team-b
 
 Feel free to reach out if you want to connect, discuss **JavaScript, React, or Node.js**, or collaborate happy to chat! 💬
 
-
 </td>
 </tr>
 </table>
