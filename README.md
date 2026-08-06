@@ -31,9 +31,8 @@ I enjoy working with the **MERN Stack** and constantly refining my development s
 
 I thrive on solving coding challenges and collaborating on open-source or team-based web projects 💻
 
-Feel free to reach out if you want to connect, discuss **JavaScript, React, or Node.js**, or collaborate — happy to chat! 💬
+Feel free to reach out if you want to connect, discuss **JavaScript, React, or Node.js**, or collaborate happy to chat! 💬
 
-Fun fact: I genuinely love the process of turning a simple idea into a fully working web application ✨
 
 </td>
 </tr>
